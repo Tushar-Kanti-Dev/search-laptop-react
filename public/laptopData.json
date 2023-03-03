@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0012-a292",
+        "seller": "Hp",
+        "model": "pavilion-notebook-200",
+        "price": 12000,
+        "img": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    
+    },
+    {
+        "id": "3212-a2592",
+        "seller": "Apple",
+        "model": "Pro-ebook-14",
+        "price": 20000,
+        "img": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    
+    },
+    {
+        "id": "240012-a292",
+        "seller": "Dell",
+        "model": "pavilion-Pro-16",
+        "price": 15000,
+        "img": "https://images.unsplash.com/photo-1485988412941-77a35537dae4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    
+    },
+    {
+        "id": "630012-a2692",
+        "seller": "Hp",
+        "model": "pavilion-notebook-400",
+        "price": 11000,
+        "img": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    
+    },
+    {
+        "id": "025012-a2912",
+        "seller": "Acher",
+        "model": "Notebook-200",
+        "price": 12000,
+        "img": "https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    
+    },
+    {
+        "id": "130012-a292",
+        "seller": "Asus",
+        "model": "Asus-Book-g-10",
+        "price": 18000,
+        "img": "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGxhcHRvcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    
+    }
+]
