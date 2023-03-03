@@ -1,12 +1,16 @@
 
+import { useState } from 'react';
 import useLaptops from '../../hooks/useLaptops';
 import LaptopCart from '../LaptopCart/LaptopCart';
 import './Laptops.css'
 
 const Laptops = () => {
     const [laptops, setLaptops] = useLaptops();
+    const [searchResult, setSearchResult] = useState([]);
     const searchLaptop = event =>{
-        console.log(event.target.value)
+        const searchText = event.target.value;
+        const match = laptops.filter(l => l.model.includes(searchText));
+        setSearchResult(match);
     }
     return (
         <div>
@@ -16,7 +20,7 @@ const Laptops = () => {
             </div>
             <div className="laptop-cart-container">
                 {
-                    laptops.map(laptop => <LaptopCart
+                    searchResult.map(laptop => <LaptopCart
                         key={laptop.id}
                         laptop = {laptop}
                     ></LaptopCart>)
